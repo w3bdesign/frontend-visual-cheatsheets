@@ -18,7 +18,7 @@ The repository is organized into the following folders:
 
 ## CSS Cheatsheet
 
-The CSS cheatsheet is located in the [`css`](/css) folder:
+The CSS cheatsheets are located in the [`css`](/css) folder:
 
 ![CSS Cheatsheet](css/css-cheatsheet.png)
 
@@ -26,13 +26,13 @@ This cheatsheet includes the most commonly used CSS properties and their values 
 
 ## Git Cheatsheet
 
-The Git cheatsheet is located in the [`git`](/git) folder:
+The Git cheatsheets are located in the [`git`](/git) folder:
 
 This cheatsheet includes the most commonly used Git commands and their descriptions to help you manage your repository and collaborate with others.
 
 ## JavaScript Cheatsheet
 
-The JavaScript cheatsheet is located in the [`javascript`](/javascript) folder:
+The JavaScript cheatsheets are located in the [`javascript`](/javascript) folder:
 
 This cheatsheet includes the most commonly used JavaScript methods and their descriptions to help you write efficient and functional code.
 
